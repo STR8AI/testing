@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "testing",
+	"name": "lukairo-fullstack",
 	"compatibility_date": "2025-10-08",
 	"main": "./workers/app.ts",
 	"vars": {
